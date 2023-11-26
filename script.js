@@ -3,9 +3,11 @@ let gameData = [];
 let currentRound = 0;
 let score = 0;
 let debutJeu;
+let questionsRestantes = 10
 
 // Fonction pour commencer une nouvelle manche
 function startGame() {
+    questionsRestantes = 10; // Réinitialiser le nombre de questions restantes
     gameData = chargerPhotosDepuisGitHub();
     melangerPhotos();
     debutJeu = Date.now();
@@ -78,9 +80,10 @@ function nextRound() {
 
     // Passer à la question suivante
     afficherQuestion();
-
+    questionsRestantes--;
+    
     // Vérifier si toutes les questions ont été posées
-    if (currentRound === gameData.length) {
+    if (questionsRestantes === 0) {
         // Fin du jeu
         endGame();
     }
@@ -93,6 +96,7 @@ function endGame() {
 
     alert(`Fin du jeu ! Votre score est de ${score} sur ${gameData.length}. Temps total : ${tempsJeu} secondes.`);
     // Vous pouvez ajouter d'autres actions ici, comme réinitialiser le jeu.
+    startGame();
 }
 
 // Fonction pour mélanger un tableau de manière aléatoire
