@@ -3,11 +3,11 @@ let gameData = [];
 let currentRound = 0;
 let score = 0;
 let debutJeu;
-let questionsRestantes = 10
+let questionsRestantes = 9
 
 // Fonction pour commencer une nouvelle manche
 function startGame() {
-    questionsRestantes = 10; // Réinitialiser le nombre de questions restantes
+    questionsRestantes = 9; // Réinitialiser le nombre de questions restantes
     gameData = chargerPhotosDepuisGitHub();
     melangerPhotos();
     debutJeu = Date.now();
