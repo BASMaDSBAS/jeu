@@ -30,6 +30,7 @@ function chargerPhotosDepuisGitHub() {
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/9.JPG', mot: 'un' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/10.JPG', mot: 'un' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/11.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/12.JPG', mot: 'un' },
         // Ajoutez d'autres données selon vos besoins
     ];
 }
