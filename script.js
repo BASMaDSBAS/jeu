@@ -1,7 +1,16 @@
 // Données du jeu
 const gameData = [
-    { word: 'Chien', image: 'https://raw.githubusercontent.com/VotreNomUtilisateur/NomDuDepot/main/images/chien.jpg' },
-    { word: 'Chat', image: 'https://raw.githubusercontent.com/VotreNomUtilisateur/NomDuDepot/main/images/chat.jpg' },
+    { word: 'un', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/1.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/2.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/3.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/4.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/5.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/6.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/7.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/8.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/9.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/10.jpg' },
+    { word: 'deux', image: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/photo/11.jpg' },
     // Ajoutez d'autres données selon vos besoins
 ];
 
