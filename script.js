@@ -17,17 +17,17 @@ function chargerPhotosDepuisGitHub() {
     // Ici, vous devrez implémenter la logique pour récupérer les photos depuis GitHub.
     // Remplacez ce tableau statique par votre propre mécanisme pour récupérer les données.
     return [
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/1.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/2.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/3.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/4.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/5.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/6.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/7.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/8.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/9.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/10.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu-bda/main/11.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/1.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/2.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/3.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/4.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/5.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/6.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/7.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/8.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/9.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/10.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/11.JPG', mot: 'un' },
         // Ajoutez d'autres données selon vos besoins
     ];
 }
