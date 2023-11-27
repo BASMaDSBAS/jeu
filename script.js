@@ -3,11 +3,11 @@ let gameData = [];
 let currentRound = 0;
 let score = 0;
 let debutJeu;
-let questionsRestantes = 9
+let questionsRestantes = 10
 
 // Fonction pour commencer une nouvelle manche
 function startGame() {
-    questionsRestantes = 9; // Réinitialiser le nombre de questions restantes
+    questionsRestantes = 10; // Réinitialiser le nombre de questions restantes
     gameData = chargerPhotosDepuisGitHub();
     melangerPhotos();
     debutJeu = Date.now();
@@ -95,7 +95,7 @@ function endGame() {
     const finJeu = Date.now();
     const tempsJeu = (finJeu - debutJeu) / 1000; // Convertir en secondes
 
-    alert(`Fin du jeu ! Votre score est de ${score} sur ${gameData.length}. Temps total : ${tempsJeu} secondes.`);
+    alert(`Fin du jeu ! Votre score est de ${score} sur 10. Temps total : ${tempsJeu} secondes.`);
     // Vous pouvez ajouter d'autres actions ici, comme réinitialiser le jeu.
     startGame();
 }
