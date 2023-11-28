@@ -186,7 +186,7 @@ function chargerPhotosDepuisGitHub() {
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/167.JPG', mot: 'Kiara Avendano-Blanes' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/168.JPG', mot: 'Geoffrey Colombo' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/169.JPG', mot: 'Ulysse Teisson' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/170.JPG', mot: 'Marie Pod'Homme' },
+     
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/171.JPG', mot: 'Pierre-Louis Barbier' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/172.JPG', mot: 'Killian Helary' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/173.JPG', mot: 'Louise Cartier' },
