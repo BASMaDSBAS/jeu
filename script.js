@@ -120,8 +120,8 @@ function chargerPhotosDepuisGitHub() {
         
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/101.JPG', mot: 'Stéphane Tra' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/102.JPG', mot: 'Mathilde Nicod' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/103.JPG', mot: 'un' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/104.JPG', mot: 'un' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/103.JPG', mot: 'Anaë Girault-Fodil' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/104.JPG', mot: 'Tatiana Lignine' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/105.JPG', mot: 'un' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/106.JPG', mot: 'un' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/107.JPG', mot: 'un' },
