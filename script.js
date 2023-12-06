@@ -154,7 +154,7 @@ function chargerPhotosDepuisGitHub() {
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/134.JPG', mot: 'Anna Brun' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/135.JPG', mot: 'Josselin Begue-Martail' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/136.JPG', mot: 'Clémence Raymond' },
-        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/137.JPG', mot: 'Léna Senanou' },
+        { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/137.JPG', mot: 'Léane Senanou' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/138.JPG', mot: 'Simon Husser' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/139.JPG', mot: 'Yassine Margoum' },
         { url: 'https://raw.githubusercontent.com/BASMaDSBAS/jeu/main/140.JPG', mot: 'Lena Catrice' },
